@@ -1,0 +1,72 @@
+
+#simply-logo {
+    text-align: center;
+    width: 8em;
+}
+
+#header {
+    background-color: antiquewhite;
+    padding: 10px 0;
+    color: rgb(3, 120, 103);
+    font-size: 10px;
+    
+}
+
+body{
+    
+    flex-direction: column;
+    display: inline-block;
+    text-align: center;
+    
+
+}
+
+.margin {
+    margin-bottom: 0%;
+    padding: 0%;
+}
+
+.center {
+    text-align: center;
+
+}
+
+#title {
+    margin-inline: 30%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#focaccia {
+    width: 50%;
+    text-align: center;
+}
+
+#red {
+    color: rgb(193, 12, 12);
+    text-align: left;
+    margin-bottom: 0%;
+    margin-inline: 15%;
+    margin-left: 25%;
+    
+}
+
+
+#credit {
+    color: grey;
+    text-align: center;
+    font-size: smaller;
+    margin:  0 auto;
+}
+
+.left {
+    text-align: left;
+    flex-direction: column;
+    display: flex;
+    margin-inline: 15%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#how {
+    margin-top: 2em;
+
+}
